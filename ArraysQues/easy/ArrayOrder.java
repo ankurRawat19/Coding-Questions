@@ -1,4 +1,4 @@
-package src.ArraysQues.easy;
+package ArraysQues.easy;
 
 import java.util.ArrayList;
 import java.util.Arrays;

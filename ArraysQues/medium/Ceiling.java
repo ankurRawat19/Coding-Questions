@@ -1,8 +1,9 @@
 package ArraysQues.medium;
+
 //smallest number greater than or equal to target
 public class Ceiling {
     public static void main(String[] args) {
-        int[] arr = {1,2,3,5,7,9,13};
+        int[] arr = {1, 2, 3, 5, 7, 9, 13};
         System.out.println(findCieling(arr, 8));
     }
 
